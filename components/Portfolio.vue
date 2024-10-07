@@ -274,10 +274,10 @@ onMounted(() => {
         <div class="section-title">Project</div>
         <div class="_project_card">
           <div class="_preview_img">
-            <a href="/images/task_thumb.jpg" target="_blank">
+            <a href="images/task_thumb.jpg" target="_blank">
               <img src="/images/task_thumb.jpg" alt="" />
             </a>
-            <a href="/images/task_calender_view.jpg" target="_blank">
+            <a href="images/task_calender_view.jpg" target="_blank">
               <img class="mt-4" src="/images/task_calender_view.jpg" alt="" />
             </a>
           </div>
@@ -315,10 +315,10 @@ onMounted(() => {
         </div>
         <div class="_project_card">
           <div class="_preview_img">
-            <a href="/images/nfc1.jpg" target="_blank">
+            <a href="images/nfc1.jpg" target="_blank">
               <img src="/images/nfc1.jpg" alt="" />
             </a>
-            <a href="/images/nfc2.jpg" target="_blank">
+            <a href="images/nfc2.jpg" target="_blank">
               <img class="mt-4" src="/images/nfc2.jpg" alt="" />
             </a>
           </div>
