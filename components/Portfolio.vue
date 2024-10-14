@@ -144,7 +144,7 @@ onMounted(() => {
           <ul>
             <li class="mb-2">
               <b>Frontend Technologies : </b>
-              HTML5, CSS3, JavaScript, Vue.js, Bootstrap, Vuetify, Pinia
+              HTML5, CSS3, JavaScript, Vue.js, Bootstrap, Vuetify, Pinia , vue-router
             </li>
             <li class="mb-2">
               <b>State Management : </b>
